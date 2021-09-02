@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+    font-size: 16px;
+}
+.table1{
+    display: flex;
+    margin: 50px 50px 50px 50px;
+}
+.name {
+    width: 400px;
+    font-family: cursive;
+    color: rgb(10, 248, 236);
+}
+
+span {
+ color: teal;
+ font-size: 22px;
+ font-family: cursive;
+}
+
+.username{
+    width: 400px;
+    font-family: cursive;
+    color: rgb(10, 248, 236);
+}
+.phone{
+    width: 400px;
+    font-family: cursive;
+    color: rgb(10, 248, 236);
+}
